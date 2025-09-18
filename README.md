@@ -46,4 +46,4 @@ jupyter notebook notebook.ipynb
 
 ## ✨ Autor
 Proyecto desarrollado por **[Natalia Beltran]**  
-Portafolio en GitHub: [https://github.com/TU_USUARIO](https://github.com/TU_USUARIO)
+Portafolio en GitHub: [https://github.com/xxnathyxx/TimeSeries-Prediction/tree/main](https://github.com/xxnathyxx)
